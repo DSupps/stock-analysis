@@ -1,6 +1,6 @@
 # Stock Analysis with VBA Challenge
 
-## Project Overview
+## Section 1: Project Overview
 
 Steve, wants to analyze stock market data so that he can help his parents decicde which stocks are better for their portfolio. Steve has a dataset containing a list of green energy stocks that he should be able to analyze quickly and efficiently through VBA excel. 
 
@@ -17,8 +17,11 @@ The Analysis was performed by refractoring Module2_VBA_Script so that when the c
 - Rename the green_stocks.xlsm file that you used in this module as VBA_Challenge.xlsm
 - Add the VBA_Challenge.vbs script to the Microsoft Visual Basic editor
 - Add code to refractored VBA where indicated
+- There are comments to explain the purpose of the code
+- Outputs for the 2017 and 2018 stock analyses
+- Pop-up messages showing the elapsed run time for script
 
-## Results
+## Section 2: Results
 
 **1a) Create a ticker Index variable and set it equal to zero before iterating over all rows**
 ![1a](https://user-images.githubusercontent.com/36451701/116830468-570fa380-ab78-11eb-809f-01c711581e3a.png)
@@ -56,7 +59,7 @@ The Analysis was performed by refractoring Module2_VBA_Script so that when the c
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/36451701/116831647-9e009780-ab7e-11eb-98ea-80c4c19fbb95.png)
 
 
-
+## Section 3: Summary
 
 
 
