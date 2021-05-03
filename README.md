@@ -61,6 +61,37 @@ The Analysis was performed by refractoring Module2_VBA_Script so that when the c
 
 ## Section 3: Summary
 
+### **What are the advantages or disadvantages of refactoring code in general?**
+
+Refactoring should not be thought of as just copying, pasting and reusing old code.  It can be very easy to mess up something in the refactoring process and create bugs or other problems that affect the functionality.  I found it a little less intimidating by going in manageable "chunk" rather than just doing the whole thing all at once.  Using comments is very helpful in keeping all the code organized and will down the line if anyone who might look at your code later.
+
+**Advantages:**
+- Flexibility - reusing code that you knows was written to solve one problem and applying it's logic to another problem. 
+- Efficiency - Saves time in having to write the same code that was already written.
+- Improve readability - having clear comments can make the QA and debugging process go more smoothly 
+- Improve quality of the code so that future users can continue to build on code 
+- Simplicity in that the originial code could be old and there may be new ways of simplifying that past logic
+
+**Disadvantages:**
+- Some code will need to be rearranged to function correctly. 
+- Can't just copy and paste the code with out formulating a plan. This plan should be meant to help keep code blocks organized.
+- Can be time conusming if need to conduct testing.  Adding the new code doesn't just go according to plan right away. 
+- Not a catch all for bugs.  You Can mess up something in the process of refactoring and create new bugs or problems that affect the functionality. 
+
+### **Adavantages and disadvantages of the original and refactored VBA script for this challenge?
+
+Haing the original code saved me time from having to start over from scratch.  By reducing the amount the amount of code I had to write, it reduces the amount of error I could make.  The refactored code showed me how the logic could be simplified but putting it into action was another story. I ran into a lot of bugs and the performance improvements did not make much of a difference in processing time. 
+
+**Advantages:**
+- I did not have rewrite all the code that I created earlier in the module to get the challenge started. 
+- The comments were very helpful in trying to determine the logic.
+
+**Disadvantages:**
+- I did experience bugs when trying to refactor.
+- Some of the comments were vague and I could not figure out what I was trying to do. 
+- It was hard to tell the difference between I did earlier in the module and what I did in the challange. 
+
+
 
 
 
