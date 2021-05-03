@@ -52,10 +52,10 @@ The Analysis was performed by refractoring Module2_VBA_Script so that when the c
 
 **5) Run the stock analysis, then confirm that your stock analysis outputs for 2017 and 2018 are the same as they were in the module**
 
-###2017
+### 2017
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/36451701/116831624-89240400-ab7e-11eb-811c-0c28129eea9e.png)
 
-###2018
+### 2018
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/36451701/116831647-9e009780-ab7e-11eb-98ea-80c4c19fbb95.png)
 
 
