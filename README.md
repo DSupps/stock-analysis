@@ -4,7 +4,7 @@
 
 Steve, wants to analyze stock market data so that he can help his parents decicde which stocks are better for their portfolio. Steve has a dataset containing a list of green energy stocks that he should be able to analyze quickly and efficiently through VBA excel. 
 
-## Purpose 
+### Project Challenge: 
 *The purpose of this project is to help Steve analysis stock data quickly and efficiently by adding some new functionality to previously used code  By refactoring this code in VBA, I want to see if I can make it more efficient - by taking fewer steps, using less memory, or improving the logic of the code.  In addition, I want to make the code easy to read just in case somebody else needs to make updates.*
 
 ## Analysis and Challenges
